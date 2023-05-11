@@ -8,7 +8,7 @@ import Notifications from './components/Notifications';
 
 const useStyles = makeStyles((theme) => ({
   appBar: {
-    borderRadius: 20,
+    borderRadius: 15,
     margin: '30px 100px',
     display: 'flex',
     flexDirection: 'row',
